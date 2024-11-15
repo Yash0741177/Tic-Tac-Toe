@@ -1,16 +1,6 @@
 {
  "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "___\n",
-    "\n",
-    
-    "___\n",
-    
-   ]
-  },
+  
   {
    "cell_type": "markdown",
    "metadata": {},
